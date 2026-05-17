@@ -1,4 +1,4 @@
-# Day 3 Research Findings
+# Research Findings
 Date: 09/05/26
 
 ## Survey summary
