@@ -1,4 +1,4 @@
-# Day 4 — Competitive Analysis
+Competitive Analysis
 **Based on:** First-hand app walkthroughs with real screenshots
 **Apps:** Groww (26 screens), ET Money (20 screens), INDmoney (22 screens)
 **Date:** May 2025
@@ -181,4 +181,4 @@ applied to Groww's 50M+ user base.
 
 ---
 
-*Day 4 complete. Next: Day 5 — Data analysis with AMFI dataset in Python*
+*This part is complete. Next part — Data analysis with AMFI dataset in Python*
